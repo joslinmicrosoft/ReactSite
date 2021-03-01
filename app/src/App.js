@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Look at this really cool spinny thing we have here. 2/26/2021 13:00
+          Look at this really cool spinny thing we have here. 3/01/2021 15:15
         </p>
         <a
           className="App-link"
@@ -20,7 +20,7 @@ function App() {
         </a>
         <a 
           className="App-link"
-          href="https://cerulean-iguana-839.azurestaticwebsites.net/.auth/login/aad"
+          href="/.auth/login/aad"
         >
         Log in with Azure AD
         </a>
